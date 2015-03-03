@@ -1,0 +1,6 @@
+[submodule "roles/knosssi.composer"]
+	path = roles/knossi.composer
+	url = https://github.com/kosssi/ansible-role-composer
+[submodule "roles/drunomics.drush"]
+	path = roles/drunomics.drush
+	url = https://github.com/hatsch/ansible-role-drush
